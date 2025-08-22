@@ -2,7 +2,7 @@
 // Feel free to use it if you subscribed to this channel: https://www.youtube.com/channel/UCWE70GK4SaYz1dxMMN0TzkQ
 // The tutorial video is available here https://youtu.be/xeHBKi0GLow
 
-var timeZone="America/Winnipeg";
+var timeZone="Asia/Dili";
 // get your time zone here https://developers.google.com/adwords/api/docs/appendix/codes-formats#timezone-ids
 
 
@@ -217,4 +217,5 @@ function getMainSheet()
  */
 function stripQuotes(value) {
     return value.replace(/^["']|['"]$/g, "");
+
 }
